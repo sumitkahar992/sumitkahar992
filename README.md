@@ -1,7 +1,7 @@
-[![MasterHead]([https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif))]
+[![MasterHead]([https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif))]
 <h1 align="center">Hi 👋, I'm Sumit Kahar</h1>
 <h3 align="center">A passionate Android App developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif](https://cdn.dribbble.com/userupload/7081683/file/original-9c605f4d487a4432e502ec3bb851e440.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/userupload/7081683/file/original-9c605f4d487a4432e502ec3bb851e440.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkahar992&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkahar992" /> </p>
 
