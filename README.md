@@ -30,10 +30,32 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkahar992&show_icons=true&locale=en&layout=compact" alt="sumitkahar992" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkahar992&show_icons=true&locale=en" alt="sumitkahar992" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkahar992&" alt="sumitkahar992" /></p>
+## Technology and tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Kotlin-D113ED?&style=for-the-badge&logo=kotlin&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-3FC781?style=for-the-badge&logo=jetpack-compose&logoColor=white" height="30" />
+      <img src="https://img.shields.io/badge/Room%20Database-3FC781?style=for-the-badge&logo=roomdatabase&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Clean%20Architecture-3FC781?style=for-the-badge&logo=architecture&logoColor=3A83F9" height="30"/>
+     <img src="https://img.shields.io/badge/MVVM-0c7ded?style=for-the-badge&logo=mvvm&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Material%20Design-0c7ded?style=for-the-badge&logo=material-design&logoColor=white" height="30" />
+     <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=retrofit&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Dagger%20Hilt-4285F4?style=for-the-badge&logo=dagger-hilt&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Jetpack-3FC781?style=for-the-badge&logo=jetpack&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white" height="30" />
+     <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Git-2d2e2d?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Sentry-391E41?style=for-the-badge&logo=sentry&logoColor=white" height="30" />
+     <img src="https://img.shields.io/badge/Jira-0c7ded?style=for-the-badge&logo=jira&logoColor=white" height="30" />
+<!--   <img src="https://img.shields.io/badge/Vue.JS-3DDC84?style=for-the-badge&logo=vue.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Typescript-0084c2?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Nuxt.JS-00c274?style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Quasar-3db4eb?style=for-the-badge&logo=quasar&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Tailwind-3db4eb?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Vuetify-005ac2?style=for-the-badge&logo=vuetify&logoColor=white" height="30"/> -->
+</p>
